@@ -25,7 +25,7 @@ Due to the large size and presence of noisy samples in the ArXiv training set (2
 3. **Document Selection**: Documents are clustered by topic, and top documents with the highest probability per topic are selected
 
 ### Phase 2: Citation Augmentation
-@ -34,9 +35,54 @@ The citation augmentation process provides citation information for each input d
+The citation augmentation process provides citation information for each input d
 
 ![image](https://github.com/user-attachments/assets/c8452252-0e0c-4b5b-a682-585649503deb)
 
